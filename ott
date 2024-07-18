@@ -4,7 +4,7 @@
 #EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 ExoPlayer VLC/3.0.17.4 LibVLC/3.0.17.4 ReactNativeVideo/3.4.4 AppleWebKit/537.36 VLC VLC/3554 Wink/1.31.1  OTT Navigator/1.6.7.7 ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.12.3
 
 
 #-------------------SCTV-------------------#
@@ -215,18 +215,16 @@ https://api.wintv.me/vtvcab1/index.m3u8
 
 https://api.wintv.me/vtvcab2/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 
-https://api.wintv.me/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", On Movies
 
 https://api.wintv.me/vtvcab4/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E- Channel
 
 https://api.wintv.me/vtvcab5/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg", ON Sports+
 
-https://api.wintv.me/vtvcab6/index.m3u8
+
+
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png", On O2TV
 
 https://api.wintv.me/vtvcab7/index.m3u8
@@ -246,18 +244,14 @@ https://api.wintv.me/vtvcab12/index.m3u8
 
 https://api.wintv.me/vtvcab15/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png", ON Football 
 
-https://api.wintv.me/vtvcab16/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
 
 https://api.wintv.me/vtvcab17/index.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
 
-https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", ON Vie Dramas
 

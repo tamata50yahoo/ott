@@ -93,9 +93,9 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 #-------------------VTV-------------------#
-#EXTINF:-1 logo="\\192.167.1.245\Userdata\addon_data\service.tvheadend43\imagecache\data\3304" tvg-id="b3f2c7c9b270fb8b6ea91eebd86f8213" group-title="VTV" tvg-chno="1",VTV1 HD
+#EXTINF:-1 logo="http://192.167.1.245:9981/imagecache/3304" tvg-id="b3f2c7c9b270fb8b6ea91eebd86f8213" group-title="VTV" tvg-chno="1",VTV1 HD
 http://192.167.1.245:9981/stream/channelid/1237840563?profile=pass
-#EXTINF:-1 logo="http://192.167.1.245:9981/imagecache/data/3303" tvg-id="f0910cec6e1e58b9a1650d8bcd8e94d8" group-title="VTV" tvg-chno="2",VTV2 HD
+#EXTINF:-1 logo="http://192.167.1.245:9981/imagecache/3303" tvg-id="f0910cec6e1e58b9a1650d8bcd8e94d8" group-title="VTV" tvg-chno="2",VTV2 HD
 http://192.167.1.245:9981/stream/channelid/1812763120?profile=pass
 #EXTINF:-1 logo="http://192.167.1.245:9981/imagecache/3305" tvg-id="c4e525c9e67f80354fc71537e3345ac6" group-title="VTV" tvg-chno="3",VTV3 HD
 http://192.167.1.245:9981/stream/channelid/1227220420?profile=pass

@@ -462,8 +462,3 @@ http://192.167.1.246:9981/stream/channelid/1004903566?profile=pass
 http://192.167.1.246:9981/stream/channelid/1691925968?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/5KQJoBg.png" tvg-id="085225d542e413bbdbbd3994ef49a1ae" group-title="Địa phương" tvg-chno="147",STV1 _ TH Sóc Trăng
 http://192.167.1.246:9981/stream/channelid/1428509192?profile=pass
-
-#EXTINF:-1 logo="https://i.imgur.com/jBWD3It.png" tvg-id="facd1769265866870711d9a33ad5ddd5" group-title="Địa phương" tvg-chno="146",LA34 _ TH Long An
-http://192.167.1.246:9981/stream/channelid/1763167738?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/5KQJoBg.png" tvg-id="835da70fe48f9e68bb036f6ca7d373c4" group-title="Địa phương" tvg-chno="147",STV1 _ TH Sóc Trăng
-http://192.167.1.246:9981/stream/channelid/262626691?profile=pass

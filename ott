@@ -99,11 +99,13 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://7pal.short.gy/wwenw
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="SCTV" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
 
 #EXTINF:-1 tvg-id="klifehd" group-title=SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e4/Kplus_Action_logo_m%C3%A0n_h%C3%ACnh_16-10-2023.png/revision/latest?cb=20231224092909&path-prefix=vi" K+", K+ ACTION
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="SCTV" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
+
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title=SCTV" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
@@ -111,21 +113,7 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?pro
 #EXTINF:-1 tvg-id="ksport2hd" group-title=SCTV" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title=SCTV" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ Kids
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
 
-#EXTINF:0,K+ Action
-#EXTVLCOPT:network-caching=1000
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
-#EXTINF:0,K+ Cine
-#EXTVLCOPT:network-caching=1000
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
-#EXTINF:0,K+ Sport 1
-#EXTVLCOPT:network-caching=1000
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
-#EXTINF:0,K+ Sport 2
-#EXTVLCOPT:network-caching=1000
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
 
 #-------------------VTV-------------------#
 #EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="d92cb7d251f06f943ab5ed77eb462233" group-title="VTV" tvg-chno="1",VTV1 HD

@@ -57,8 +57,8 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv15hd.png", SCTV15 HD
-
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.22:11920
+#http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png", SCTV16 HD
 
@@ -320,6 +320,10 @@ http://192.167.1.245:9981/stream/channelid/302377052?profile=pass
 http://192.167.1.245:9981/stream/channelid/1033948304?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/7nIUtCU.png" tvg-id="5302d7f6a48afdd8bf1adf16de9ea05c" group-title="Quốc tế" tvg-chno="70",HBO
 http://192.167.1.245:9981/stream/channelid/1993802323?profile=pass
+
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quá»‘c Táº¿ (SD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+http://nh0zsieuquay.giize.com:9999/rtp/232.84.1.20:8094
+
 #EXTINF:-1 logo="https://i.imgur.com/vylHBC8.png" tvg-id="cfe92a991981f18638ad980c92f0eea8" group-title="Quốc tế" tvg-chno="71",KBS World
 http://192.167.1.245:9981/stream/channelid/422242767?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/Et3vExm.png" tvg-id="6b00658857e82514674aa9ba63ef5f90" group-title="Quốc tế" tvg-chno="72",NHK World Japan

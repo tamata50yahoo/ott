@@ -1,6 +1,6 @@
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://tinyurl.com/tvhxml1"
 #EXTM3U url-tvg="http://192.167.2.32:9981/xmltv/channels"
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTM3U url-tvg="https://trada.info/epg.xml"
 
@@ -247,27 +247,30 @@ http://192.167.2.32:9981/stream/channelid/1465365654?profile=pass
 http://192.167.2.32:9981/stream/channelid/1858357911?profile=pass
 
 
-#EXTINF:-1 logo="https://vnepg.site/logos/143.png" tvg-id="143" group-title="Quốc tế" tvg-chno="112",Animal Planet
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="animalhd" group-title="Quốc tế" tvg-chno="112",Animal Planet
 http://192.167.2.32:9981/stream/channelid/224574634?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="animalhd" group-title="Quốc tế" tvg-chno="113",Animal Planet (HD 10Mbps)
 http://192.167.2.32:9981/stream/channelid/1379946048?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/172.png" tvg-id="asianfood" group-title="Quốc tế" tvg-chno="114",Asian Food Network
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/afnhd.png" tvg-id="afnhd" group-title="Quốc tế" tvg-chno="114",Asian Food Network
 http://192.167.2.32:9981/stream/channelid/714657261?profile=pass
+
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/axnhd.png" tvg-id="axnhd" group-title="Quốc tế" tvg-chno="115",AXN (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1506710347?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/163.png" tvg-id="axnhd" group-title="Quốc tế" tvg-chno="116",AXN
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/axnhd.png" tvg-id="axnhd" group-title="Quốc tế" tvg-chno="116",AXN
 http://192.167.2.32:9981/stream/channelid/1105138746?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="cbeebies" group-title="Quốc tế" tvg-chno="117",BBC CBeeBies (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1602756643?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="cbeebies" group-title="Quốc tế" tvg-chno="118",BBC CBeeBies (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1047924388?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/148.png" tvg-id="bbcearth" group-title="Quốc tế" tvg-chno="119",BBC Earth (HD 10Mbps)
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbcearth.png" tvg-id="bbcearth" group-title="Quốc tế" tvg-chno="119",BBC Earth (HD 10Mbps)
 http://192.167.2.32:9981/stream/channelid/869084062?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/149.png" tvg-id="bbclifestyle" group-title="Quốc tế" tvg-chno="120",BBC Lifestyle
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbclifestyle.png" tvg-id="bbclifestyle" group-title="Quốc tế" tvg-chno="120",BBC Lifestyle
 http://192.167.2.32:9981/stream/channelid/1256966818?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/bbcworldnews.png" tvg-id="bbcworldnews" group-title="Quốc tế" tvg-chno="121",BBC News (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/2098711159?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/154.png" tvg-id="bloomberg" group-title="Quốc tế" tvg-chno="122",Bloomberg (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bloomberg.png" tvg-id="bloomberg" group-title="Quốc tế" tvg-chno="122",Bloomberg (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/596713296?profile=pass
 
 
@@ -275,62 +278,64 @@ http://192.167.2.32:9981/stream/channelid/596713296?profile=pass
 http://192.167.2.32:9981/stream/channelid/709823533?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaworldhd.png" tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-chno="124",Cinema World (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/964594147?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/164.png" tvg-id="164" group-title="Quốc tế" tvg-chno="125",Cinema World
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaworldhd.png" tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-chno="125",Cinema World
 http://192.167.2.32:9981/stream/channelid/381793526?profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="riqe8ka" group-title="Quốc tế" tvg-chno="126",CNA (HD 6.5Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="cna" group-title="Quốc tế" tvg-chno="126",CNA (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/66115356?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="riqe8ka" group-title="Quốc tế" tvg-chno="127",CNA (HD 6.5Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="cnn" group-title="Quốc tế" tvg-chno="127",CNA (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1196995928?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/cnn.png" tvg-id="cnn" group-title="Quốc tế" tvg-chno="128",CNN (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1524376639?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/142.png" tvg-id="davinci" group-title="Quốc tế" tvg-chno="129",DaVinci
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/davinci.png" tvg-id="davinci" group-title="Quốc tế" tvg-chno="129",DaVinci
 http://192.167.2.32:9981/stream/channelid/1046817205?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/145.png" tvg-id="discoveryasia" group-title="Quốc tế" tvg-chno="130",Discovery Asia
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryasiahd.png" tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-chno="130",Discovery Asia
 http://192.167.2.32:9981/stream/channelid/2142758161?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/144.png" tvg-id="discovery" group-title="Quốc tế" tvg-chno="131",Discovery
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryhd.png" tvg-id="discoveryhd" group-title="Quốc tế" tvg-chno="131",Discovery
 http://192.167.2.32:9981/stream/channelid/52780488?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryhd.png" tvg-id="discoveryhd" group-title="Quốc tế" tvg-chno="132",Discovery Channel (HD 10Mbps)
 http://192.167.2.32:9981/stream/channelid/2070004466?profile=pass
-#EXTINF:-1 logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1200x1200x0/cmc_new/img.live_channel/0/0/0/0/271.jpg" tvg-id="dmax" group-title="Quốc tế" tvg-chno="133",DMAX
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dmax.png" tvg-id="dmax" group-title="Quốc tế" tvg-chno="133",DMAX
 http://192.167.2.32:9981/stream/channelid/742877683?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/141.png" tvg-id="141" group-title="Quốc tế" tvg-chno="134",Dreamworks
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dreamworks.png" tvg-id="dreamworks" group-title="Quốc tế" tvg-chno="134",Dreamworks
 http://192.167.2.32:9981/stream/channelid/1861038092?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/dreamworks.png" tvg-id="dreamworks" group-title="Quốc tế" tvg-chno="135",Dreamworks (HD 11Mbps)
 http://192.167.2.32:9981/stream/channelid/2087274922?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/158.png" tvg-id="dw" group-title="Quốc tế" tvg-chno="136",DW
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="dw" group-title="Quốc tế" tvg-chno="136",DW
 http://192.167.2.32:9981/stream/channelid/60573478?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="dw" group-title="Quốc tế" tvg-chno="137",DW (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1934057274?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/165.png" tvg-id=",fashionhd" group-title="Quốc tế" tvg-chno="138",FashionTV
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id=",fashionhd" group-title="Quốc tế" tvg-chno="138",FashionTV
 http://192.167.2.32:9981/stream/channelid/303248065?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="fashionhd" group-title="Quốc tế" tvg-chno="139",Fashion TV (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1902146012?profile=pass
 
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/nhkworld.png" tvg-id="nhkworld" group-title="Quốc tế" tvg-chno="140",NHK World Japan (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1178322805?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/146.png" tvg-id="outdoorchannel" group-title="Quốc tế" tvg-chno="141",Outdoor Channel
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/outdoorhd.png" tvg-id="outdoorhd" group-title="Quốc tế" tvg-chno="141",Outdoor Channel
 http://192.167.2.32:9981/stream/channelid/226108048?profile=pass
 
 #EXTINF:-1 logo="https://vnepg.site/logos/168.png" tvg-id="travelliving" group-title="Quốc tế" tvg-chno="142",Travel Living
 http://192.167.2.32:9981/stream/channelid/114256736?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/YyYy7jy.png" tvg-id="tve" group-title="Quốc tế" tvg-chno="143",TVE (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/868878150?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/169.png" tvg-id="warnertvhd" group-title="Quốc tế" tvg-chno="144",Warner TV
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="warnertvhd" group-title="Quốc tế" tvg-chno="144",Warner TV
 http://192.167.2.32:9981/stream/channelid/477824039?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="warnertvhd" group-title="Quốc tế" tvg-chno="145",WBTV (HD 11Mbps)
 http://192.167.2.32:9981/stream/channelid/835019178?profile=pass
+
 #EXTINF:-1 logo="https://i.imgur.com/Nz525XH.png" tvg-id="123tv" group-title="Quốc tế" tvg-chno="146",123TV
 http://192.167.2.32:9981/stream/channelid/829887672?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/abcaustralia.png" tvg-id="abcaustralia" group-title="Quốc tế" tvg-chno="147",ABC Australia
 http://192.167.2.32:9981/stream/channelid/1662131160?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/153.png" tvg-id="153" group-title="Quốc tế" tvg-chno="148",ABC Australia
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/abcaustralia.png" tvg-id="abcaustralia" group-title="Quốc tế" tvg-chno="148",ABC Australia
 http://192.167.2.32:9981/stream/channelid/1357694658?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/py4oLTl.png" tvg-id="py4oltl" group-title="Quốc tế" tvg-chno="149",Al Jazeera
+#EXTINF:-1 logo="https://i.imgur.com/py4oLTl.png" tvg-id="aljazeera" group-title="Quốc tế" tvg-chno="149",Al Jazeera
 http://192.167.2.32:9981/stream/channelid/1515940466?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="animalhd" group-title="Quốc tế" tvg-chno="150",Animal Planet
 http://192.167.2.32:9981/stream/channelid/1020004350?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/152.png" tvg-id="arirang" group-title="Quốc tế" tvg-chno="151",Arirang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/arirang.png" tvg-id="arirang" group-title="Quốc tế" tvg-chno="151",Arirang
 http://192.167.2.32:9981/stream/channelid/826823366?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/afnhd.png" tvg-id="afnhd" group-title="Quốc tế" tvg-chno="152",Asian Food Network
 http://192.167.2.32:9981/stream/channelid/1419565908?profile=pass
@@ -340,7 +345,7 @@ http://192.167.2.32:9981/stream/channelid/359743531?profile=pass
 http://192.167.2.32:9981/stream/channelid/65373576?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="cbeebies" group-title="Quốc tế" tvg-chno="155",BBC CBeeBies
 http://192.167.2.32:9981/stream/channelid/1253548212?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/151.png" tvg-id="bbcnews" group-title="Quốc tế" tvg-chno="156",BBC News
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbcworldnews.png" tvg-id="bbcworldnews" group-title="Quốc tế" tvg-chno="156",BBC News
 http://192.167.2.32:9981/stream/channelid/191418746?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/bloomberg.png" tvg-id="bloomberg" group-title="Quốc tế" tvg-chno="157",Bloomberg
 http://192.167.2.32:9981/stream/channelid/1535495430?profile=pass
@@ -366,9 +371,9 @@ http://192.167.2.32:9981/stream/channelid/1753717517?profile=pass
 http://192.167.2.32:9981/stream/channelid/1754303563?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/SAQgczi.png" tvg-id="cctv15" group-title="Quốc tế" tvg-chno="167",CCTV15
 http://192.167.2.32:9981/stream/channelid/1995876450?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/155.png" tvg-id="cnbc" group-title="Quốc tế" tvg-chno="168",CNBC
+#EXTINF:-1 logo="https://i.imgur.com/H0hAm72.png" tvg-id="cnbc" group-title="Quốc tế" tvg-chno="168",CNBC
 http://192.167.2.32:9981/stream/channelid/2082675243?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/156.png" tvg-id="cnn" group-title="Quốc tế" tvg-chno="169",CNN
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cnn.png" tvg-id="cnn" group-title="Quốc tế" tvg-chno="169",CNN
 http://192.167.2.32:9981/stream/channelid/325847355?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/davinci.png" tvg-id="davinci" group-title="Quốc tế" tvg-chno="170",Da Vinci
 http://192.167.2.32:9981/stream/channelid/1957215524?profile=pass
@@ -380,7 +385,7 @@ http://192.167.2.32:9981/stream/channelid/642033832?profile=pass
 http://192.167.2.32:9981/stream/channelid/1627430052?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="fashionhd" group-title="Quốc tế" tvg-chno="174",Fashion TV
 http://192.167.2.32:9981/stream/channelid/706507969?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/159.png" tvg-id="france24eng" group-title="Quốc tế" tvg-chno="175",France 24
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/france24eng.png" tvg-id="france24eng" group-title="Quốc tế" tvg-chno="175",France 24
 http://192.167.2.32:9981/stream/channelid/427875992?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/france24eng.png" tvg-id="france24eng" group-title="Quốc tế" tvg-chno="176",France 24 (English)
 http://192.167.2.32:9981/stream/channelid/2024835798?profile=pass
@@ -396,9 +401,9 @@ http://192.167.2.32:9981/stream/channelid/2027213702?profile=pass
 http://192.167.2.32:9981/stream/channelid/252469677?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/musicbox.png" tvg-id="musicbox" group-title="Quốc tế" tvg-chno="182",Music Box
 http://192.167.2.32:9981/stream/channelid/1391950537?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/171.png" tvg-id="musicbox" group-title="Quốc tế" tvg-chno="183",Music Box
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/musicbox.png" tvg-id="musicbox" group-title="Quốc tế" tvg-chno="183",Music Box
 http://192.167.2.32:9981/stream/channelid/1120579158?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/161.png" tvg-id="nhkworld" group-title="Quốc tế" tvg-chno="184",NHK World Japan 
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/nhkworld.png" tvg-id="nhkworld" group-title="Quốc tế" tvg-chno="184",NHK World Japan 
 http://192.167.2.32:9981/stream/channelid/258644984?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/RB4ymyh.png" tvg-id="nhkworld" group-title="Quốc tế" tvg-chno="185",NHK Premium
 http://192.167.2.32:9981/stream/channelid/2059467236?profile=pass
@@ -425,7 +430,7 @@ http://192.167.2.32:9981/stream/channelid/1262260672?profile=pass
 http://192.167.2.32:9981/stream/channelid/114812345?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/tlchd.png" tvg-id="tlchd" group-title="Quốc tế" tvg-chno="196",TLC
 http://192.167.2.32:9981/stream/channelid/1137893550?profile=pass
-#EXTINF:-1 logo="https://vnepg.site/logos/162.png" tvg-id="tv5monde" group-title="Quốc tế" tvg-chno="197",TV5MONDE
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tv5monde.png" tvg-id="tv5monde" group-title="Quốc tế" tvg-chno="197",TV5MONDE
 http://192.167.2.32:9981/stream/channelid/1139501194?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="warnertvhd" group-title="Quốc tế" tvg-chno="198",WBTV
 http://192.167.2.32:9981/stream/channelid/1041914862?profile=pass

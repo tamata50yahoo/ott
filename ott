@@ -129,7 +129,7 @@ http://192.168.56.162:9981/stream/channelid/16097329?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcgiadinhhd.png" group-title="HTV" tvg-id="c53b346789158e1646e7db7cd4945e83" tvg-chno="59",HTVC Gia Đình
 #http://192.168.56.162:9981/stream/channelid/1731476421?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphimhd.png" group-title="HTV" tvg-id="16c12bc7a9c3cb4766c5948ff046ca6a" tvg-chno="60",HTVC Phim
-http://192.168.56.162:9981/stream/channelid/1194049814?profile=pass
+#http://192.168.56.162:9981/stream/channelid/1194049814?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphunuhd.png" group-title="HTV" tvg-id="0504dbd56f29903e2c8360d05ebd7488" tvg-chno="61",HTVC Phụ Nữ
 #http://192.168.56.162:9981/stream/channelid/1440416773?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcthuanviet.png" group-title="HTV" tvg-id="5880814a45a30abfca8620fda511315c" tvg-chno="62",HTVC Thuần Việt
